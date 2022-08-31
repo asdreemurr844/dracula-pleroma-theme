@@ -1,4 +1,4 @@
-# **THIS REPOSITORY IS ARCHIVED. NEW REPOSITORY: https://github.com/dracula/pleroma **
+# **THIS REPOSITORY IS ARCHIVED. NEW REPOSITORY: https://github.com/dracula/pleroma**
 
 # dracula-pleroma-theme
 
