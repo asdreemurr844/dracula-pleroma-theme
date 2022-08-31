@@ -1,4 +1,8 @@
+# **THIS REPOSITORY IS ARCHIVED. NEW REPOSITORY: https://github.com/dracula/pleroma **
+
 # dracula-pleroma-theme
+
+
 The dracula theme for Pleroma FE!
 
 
